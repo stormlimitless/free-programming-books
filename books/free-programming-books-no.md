@@ -1,7 +1,6 @@
 ### Index
 
 * [LaTeX](#latex)
-* [Digitalisering](#Digitalisering)
 
 #### Latex
 
